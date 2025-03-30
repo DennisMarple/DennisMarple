@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/DennisMarple/threat-hunting-scenario-tor)**
-
+- **[Incident Response: Create Alert Rule (Brute Force Attempt Detection)](https://github.com/DennisMarple/Incident-Response-Brute-Force-Attempt-Detection)**
 
 
 <hr/>
