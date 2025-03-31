@@ -13,6 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/DennisMarple/threat-hunting-scenario-tor)**
 - **[Incident Response: Create Alert Rule (Brute Force Attempt Detection)](https://github.com/DennisMarple/Incident-Response-Brute-Force-Attempt-Detection)**
+- **[Incident Response Create Alert Rule (PowerShell Suspicious Web Request)](https://github.com/DennisMarple/Incident-Response-Create-Alert-Rule-PowerShell-Suspicious-Web-Request-)**
 - **[Threat Hunting Incident: Data Exfiltration](https://github.com/DennisMarple/Threat-Hunting-Incident-Data-Exfiltration/tree/main)**
 
 
