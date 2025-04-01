@@ -7,7 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/DennisMarple/Vulnerability-Management-Program-Implementation/tree/main)**
 - **[STIG Implementations Remediations (PowerShell)](https://github.com/DennisMarple/Stig-Implementations)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/DennisMarple/Programmatic-Vulnerability-Remediations-PowerShell-and-BASH-)**
 
 ## 🚨 Threat Hunting and Security Operations
 
@@ -30,7 +30,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
 [instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
+[linkedin]: https://linkedin.com/in/dennis-marple
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
